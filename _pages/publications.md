@@ -1,16 +1,9 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications and Papers"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### <a name="2023"></a>2023
+* <strong><a href="https://arxiv.org/abs/2310.02529">MIDDAG: Where Does Our News Go? Investigating Information Diffusion via Community-Level Information Pathways</a></strong> <br>Mingyu Derek Ma, Alexander K. Taylor, Nuan Wen, Yanchen Liu, Po-Nien Kung, Wenna Qin, Shicheng Wen, Azure Zhou, Diyi Yang, Xuezhe Ma, Nanyun Peng, Wei Wang. <small><em>AAAI</em> 2023. 
+</small>
