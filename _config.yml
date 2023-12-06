@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shicheng Wen"
   avatar           : "profile.png"
-  bio              : "University of Southern California\nInformation Sciences Institute\nwenshich [AT] usc [DOT] edu"
+  bio              : "Master's Student at\nUniversity of Southern California\nInformation Sciences Institute"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "wenshich@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
