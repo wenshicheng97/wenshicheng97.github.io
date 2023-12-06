@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "wenshich@usc.edu"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shicheng Wen"
   avatar           : "profile.png"
-  bio              : "Information Sciences Institute\nwenshich [AT] usc [DOT] edu"
+  bio              : "University of Southern California\nInformation Sciences Institute\nwenshich [AT] usc [DOT] edu"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
