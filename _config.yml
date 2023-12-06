@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Shicheng Wen"
 title_separator          : "-"
 name                     : &name "Shicheng Wen"
 description              : &description "Student Research Assistant at University of Southern California Information Sciences Institute"
