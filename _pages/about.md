@@ -10,7 +10,11 @@ redirect_from:
 
 Hello World! 
 
-Shicheng Wen is a second year master's at [Department of Computer Science](https://www.cs.usc.edu/) of [University of Southern California](https://www.usc.edu/). He is a student research assistant working in [Information Sciences Institute](https://www.isi.edu/), he has the honor be advised by [Dr. Xuezhe Ma](https://xuezhemax.github.io/), focusing in Natural Language Processing. Previously, he received his Bachelor's degree (2020) of Computer Science and Mathematics from [Michigan State University](https://msu.edu/). Shicheng is passionate about building human-centered AI tools. As he is fascinated by the potential of pre-trained large language models (GPT4, Llama2), he is interested in studying the following aspects:
- - How can we understand how these models work?
- - How to make the models understand the underlying meanings behind human texts? 
- - How can we make smaller open-sourced models be competable large language models, such that they can generate controllable texts?
+Shicheng Wen is currently a second-year master's student in the [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). As a student research assistant at the [Information Sciences Institute](https://www.isi.edu/), he is privileged to be mentored by [Dr. Xuezhe Ma](https://xuezhemax.github.io/), focusing research on Natural Language Processing. He holds a Bachelor's degree in Computer Science and Mathematics, obtained in 2020 from [Michigan State University](https://msu.edu/). 
+
+Driven by a passion for creating human-centered AI tools, he is particularly intrigued by the capabilities of foundational models like GPT-4, Llama2, and PaLM. His research interests include:
+- **Model Understanding and Accessibility**: Exploring methods to demystify these large models, striving to enhance smaller, open-source models to be competitive in generating controlled texts, and assessing the performance of language models in out-of-domain tasks.
+- **Semantic Comprehension in Generative Models**: Investigating how generative large language models can grasp the underlying meanings in human texts, with a focus on enhancing dialogue systems for more socially aware communication.
+- **Human-AI Interactions**: Seeking ways to improve human-AI interactions in the era of large language models. This includes leveraging these models for social good, such as developing emotional support agents, educational tools, and mental health counseling applications.
+
+Shicheng believes that the future of AI lies in its ability to understand and augment human capabilities, making technology a more empathetic and effective partner in addressing complex societal challenges.
