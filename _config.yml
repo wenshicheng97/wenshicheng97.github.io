@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shicheng Wen"
 title_separator          : "-"
 name                     : &name "Shicheng Wen"
-description              : &description "Student Research Assistant at University of Southern California Information Sciences Institute"
+description              : &description "Ph.D Student at UC Davis"
 url                      : https://wenshicheng97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenshicheng97/wenshicheng97.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shicheng Wen"
   avatar           : "profile.png"
-  bio              : "Master's Student at USC ISI"
+  bio              : "Ph.D Student at UC Davis"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "wenshich@usc.edu"
+  email            : "scwen@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
